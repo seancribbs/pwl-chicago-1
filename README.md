@@ -6,4 +6,4 @@ The paper can be found here: http://bford.info/pub/lang/thesis.pdf
 
 ## License
 
-![CC BY 4.0](http://i.creativecommons.org/l/by/3.0/88x31.png) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
+![CC BY 4.0](http://i.creativecommons.org/l/by/3.0/88x31.png)&nbsp;[CC BY 4.0](https://creativecommons.org/licenses/by/4.0)
