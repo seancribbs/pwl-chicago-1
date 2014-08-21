@@ -23,6 +23,7 @@ http://bford.info/pub/lang/thesis.pdf
   * [Noam Chomsky](http://en.wikipedia.org/wiki/Chomsky)
   * [Chomsky hierarchy](http://en.wikipedia.org/wiki/Chomsky_hierarchy)
   * [Formal languages](http://en.wikipedia.org/wiki/Formal_language)
+    and [Formal grammars](http://en.wikipedia.org/wiki/Formal_grammar)
 
 ## License
 
